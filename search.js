@@ -388,7 +388,12 @@ const ecoProducts = [
     origin: "India",
     description: "Cotton-based reusable eco-friendly cloth and bags.",
     basePrice: 450,
-    keywords: ["cotton", "cotton pads", "cotton clothes", "cotton bags", "clothes"],
+    /*keywords: ["cotton", "cotton pads", "cotton clothes", "cotton bags", "clothes"],*/
+
+
+
+    keywords: ["bottle", "water bottle", "plastic bottle", "pani bottle", "botal","eco-friendly products","organic product","recyclable materials","natural cleaning product","zero waste product","plastic free alternative","green living essentials","environmental safe products","non toxic home products","water saving accessories","Eco parking solutions","ethical fashion","Eco kitchenware","refillable bottles","Eco baby product","Eco office supplies","energy efficient device","plant based materials","recycled paper goods","green technology","organic cotton clothing","wooden toys","solar lamps","Eco gardening tools","compost bins","Eco home applications","Eco yoga mats","Eco lunch box","pick up gift items","Eco pet product","solar chargers","organic tea and coffee","natural air fresheners","Eco cleaning brush","reusable cotton pads","organic skincare","Eco shampoo bars","recycled notebook","Eco shopping cards","Soy wax candle","handmade paper","Eco furniture polish","eco baby bottle"],
+
     images: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlGu-YBE1fTfMAe2f2HCjjEUx-pzZApmfKxw&s",
       "https://5.imimg.com/data5/DQ/DU/ZP/SELLER-72269125/buy-organic-cotton-500x500.jpg",
@@ -421,11 +426,27 @@ const ecoProducts = [
   "https://image.made-in-china.com/2f0j00RdUlcoAKnakp/Fashion-Children-Clothes-Summer-Cotton-Baby-Girl-Dresses-Comfortable-Girls-Clothing.webp",
   "https://cdn.mos.cms.futurecdn.net/2qYwtrdZmB4hKKDocZwD7k.jpg",
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmGcAsRYZnB25BixDpiNNzDhEdDSjYg92uQ&s",
-      
+        "https://agaonthe.run/wp-content/uploads/2023/06/Eco-friendly_travel_products_Pinterest.png",
+    "https://litextension.com/blog/wp-content/uploads/2023/08/cowpots.webp",
+    "https://biodegradabletechsolutions.com/wp-content/uploads/2023/12/Sustainable-Living-Products.webp",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Gh9e5hDFTASLmBUfuy4_g4fEmcjkc9zo8A&s",
+    "https://blogscdn.thehut.net/app/uploads/sites/31/2024/07/sustainable-beauty-pic_1720514638.png",
+    "https://alidropship.com/wp-content/uploads/2023/11/Eco-Friendly-Product-Trends_02-min.jpg",
+    "https://whatisgreenliving.com/wp-content/uploads/2024/04/What-Is-Eco-Friendly-Illustration.jpg",
+    "https://www.letsbeco.com/cdn/shop/articles/front-view-natural_67663c62-2999-4f04-a270-966ad2fb2188.jpg?v=1758543373",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy87pY89SRULNzYdvT3DeCM7EdynHIwZLt9g&s",
+    "https://i.pinimg.com/736x/45/15/e4/4515e4635a660fed93e7f6b3cb03a1ad.jpg",
+    "https://cdn.shopify.com/s/files/1/0831/4814/4961/files/Doga-Dostu-Urun-Kullanmak-Neden-Onemlidir.jpg?v=1710840733",
+    "https://i.ytimg.com/vi/OY5eba3jxmg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC-2_elYBk5lIbUJL6NIWKiEzSALw",
+    "https://i.ytimg.com/vi/OY5eba3jxmg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC-2_elYBk5lIbUJL6NIWKiEzSALw",
+    "https://5.imimg.com/data5/GV/SQ/LV/SELLER-92979007/areca-ecofriendly-disposable-products-500x500.jpg",
+
      
     ],
     materials: ["Organic cotton", "Reusable fabric"]
   },
+
+
 ];
 
 // 🔍 Search Function
